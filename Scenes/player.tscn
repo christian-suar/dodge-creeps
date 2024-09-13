@@ -45,5 +45,4 @@ animation = &"walk"
 frame_progress = 0.966308
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(0, -7)
 shape = SubResource("CapsuleShape2D_1cnc1")
